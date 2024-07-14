@@ -1,4 +1,4 @@
-export const db = [
+export const dbPlayers = [
   {
     id: 1,
     name: "Lionel Messi",
@@ -319,4 +319,27 @@ export const db = [
       physical: 80,
     },
   },
+];
+
+export const dbClubs = [
+  { id: 1, name: "Real Madrid", country: "Spain" },
+  { id: 2, name: "Barcelona", country: "Spain" },
+  { id: 3, name: "Manchester United", country: "England" },
+  { id: 4, name: "Bayern Munich", country: "Germany" },
+  { id: 5, name: "Liverpool", country: "England" },
+  { id: 6, name: "Juventus", country: "Italy" },
+  { id: 7, name: "Paris Saint-Germain", country: "France" },
+  { id: 8, name: "Chelsea", country: "England" },
+  { id: 9, name: "Manchester City", country: "England" },
+  { id: 10, name: "AC Milan", country: "Italy" },
+  { id: 11, name: "Inter Milan", country: "Italy" },
+  { id: 12, name: "Arsenal", country: "England" },
+  { id: 13, name: "Atlético Madrid", country: "Spain" },
+  { id: 14, name: "Borussia Dortmund", country: "Germany" },
+  { id: 15, name: "Tottenham Hotspur", country: "England" },
+  { id: 16, name: "AS Roma", country: "Italy" },
+  { id: 17, name: "Napoli", country: "Italy" },
+  { id: 18, name: "Benfica", country: "Portugal" },
+  { id: 19, name: "Ajax", country: "Netherlands" },
+  { id: 20, name: "FC Porto", country: "Portugal" },
 ];
